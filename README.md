@@ -72,4 +72,4 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is unlicensed and is free to use by anyone for any purpose. - see the [LICENSE](LICENSE) file for details.
