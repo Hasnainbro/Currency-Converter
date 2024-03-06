@@ -23,13 +23,13 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/flask-currency-converter.git
+    git clone https://github.com/Hasnainbro/Currency-Converter
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd flask-currency-converter
+    cd Cuurency-Converter
     ```
 
 3. Install dependencies:
